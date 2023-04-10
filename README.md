@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Tongxuan(Francis) Wang.</h1>
 
-<h3 align="center">A graduate student who are seeking a Full-Stack Software Engineer position.</h3>
+<h3 align="center">A graduate student who are seeking a Software Engineer position.</h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-tongxuan-wang/)
 

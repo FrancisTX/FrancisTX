@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### Experience & tools I use
 
 - Graduate with both Master’s degree (at NYU) and Bachelor's degree (at UCD) in Computer Science. 
-- Experienced in software development (proficiency in backend, familiar with frontend framework and common tools) in Java and Golang. Skilled in full-stack web development, RESTful API design, data modeling, and NLP.
+- Experienced in Backend and Fullstack software development in Java and Golang. See details in my Linkedin profile above!
 
 My toolset:
 - **Languages**: Java, C++, Golang, JavaScript, TypeScript, Python, SQL, HTML, XML, CSS, PHP.

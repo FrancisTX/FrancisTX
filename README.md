@@ -26,14 +26,18 @@ Here are some ideas to get you started:
 - Experienced in software development (proficiency in backend, familiar with frontend framework and common tools) in Java and Golang. Skilled in full-stack web development, RESTful API design, data modeling, and NLP.
 
 My toolset:
--	Languages: Java, C++, Golang, JavaScript, Python, SQL, HTML, XML, CSS, PHP.
--	Web Development related: Spring Boot, Spring Data JPA, React, RESTful API, Hibernate, MySQL, PostgreSQL, Elasticsearch, Gin, gRPC, AWS.
--	Other: Git, Linux, Maven, Docker, Postman, regression and classification model.
-
+- **Languages**: Java, C++, Golang, JavaScript, TypeScript, Python, SQL, HTML, XML, CSS, PHP.
+- **Frameworks**: Spring (Spring Security, Spring MVC, Spring AOP, Spring Cloud), Spring Boot, React, Angular, Node.js,
+Gin, gRPC, Mockito, JaCoCo, Junit.
+- **Data Storage and Middleware**: MySQL, MongoDB, DynamoDB, JDBC, Hibernate, Elasticsearch, Kafka, RabbitMQ.
+- **Cloud Technologies**: AWS (IAM, S3, RDS, Amplify, Lambda, Elastic Beanstalk, EC2)
+- **Development Tools**: Git, GitHub, Maven, Jenkins, Kubernetes, VS Code, Linux, Docker, Postman, IntelliJ.
 ## The summary of my repos
 
 ### Web App
 
+- [Forum Project](https://github.com/The-Forum-Project)
+- [Quiz Web App](https://github.com/FrancisTX/Quiz-Web-Application)
 - [Personnel Information Web App](https://github.com/FrancisTX/Personnel-Information-Web-App)
 - [Social Media Web App](https://github.com/FrancisTX/Social-Media-Web-Application)
 - [Online knowledge system](https://github.com/FrancisTX/Online-knowledge-system)
